@@ -11,3 +11,4 @@ C:\Users\Krishna Sai\source\repos\OopsPrograms\OopsPrograms\bin\Debug\netcoreapp
 C:\Users\Krishna Sai\source\repos\OopsPrograms\OopsPrograms\obj\Debug\netcoreapp3.1\OopsPrograms.dll
 C:\Users\Krishna Sai\source\repos\OopsPrograms\OopsPrograms\obj\Debug\netcoreapp3.1\OopsPrograms.pdb
 C:\Users\Krishna Sai\source\repos\OopsPrograms\OopsPrograms\obj\Debug\netcoreapp3.1\OopsPrograms.genruntimeconfig.cache
+C:\Users\Krishna Sai\source\repos\OopsPrograms\OopsPrograms\obj\Debug\netcoreapp3.1\OopsPrograms.sourcelink.json

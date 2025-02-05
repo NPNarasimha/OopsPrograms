@@ -30,13 +30,16 @@ namespace OopsPrograms
                 d.javaDeveloper();
             */
             //AbstractInterface
-            Application a = new Application();
+          
+            /*Application a = new Application();
             a.farmer();
             a.doctor(); 
             a.jober();
             a.enginer();
             a.Degree();
-            
+            */
+
+            EmployeSalary.Employee();
 
         }
     }
