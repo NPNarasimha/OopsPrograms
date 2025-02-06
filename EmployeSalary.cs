@@ -6,14 +6,14 @@ namespace OopsPrograms
 {
     internal class EmployeSalary
     {
+      
         public static void Employee()
         {
             Random rand = new Random();
             int empAttend = rand.Next(0, 2);
-            int workHrs = 8;
+            int workHrs = 0;
             int hWage = 20;
             int workingDays = 20;
-           
                 switch (empAttend)
                 {
                     case 0:
@@ -42,8 +42,7 @@ namespace OopsPrograms
                                 Console.WriteLine("Employee Working for 20 Days Wage is: " + TotalEmpWage);
                             }
                             else
-                            {
-                                
+                            { 
                                 int TotalEmpWage = hWage * workHrs * workingDays;
                                 Console.WriteLine("Employee Working for Less than 20 Days Wage is: " + TotalEmpWage);
                             }

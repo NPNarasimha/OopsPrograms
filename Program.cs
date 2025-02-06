@@ -30,7 +30,7 @@ namespace OopsPrograms
                 d.javaDeveloper();
             */
             //AbstractInterface
-          
+
             /*Application a = new Application();
             a.farmer();
             a.doctor(); 
@@ -39,8 +39,22 @@ namespace OopsPrograms
             a.Degree();
             */
 
-            EmployeSalary.Employee();
+            //EmployeSalary.Employee();
 
+           /* MovieTicket mt= new MovieTicket();
+            mt.Tickets();
+           */
+          
+            /*Validation v=new Validation();
+            v.UserValidation();
+            */
+
+          /*  BasicCalculator calculator = new BasicCalculator();
+            calculator.calculation();
+          */
+
+            AirQualityCal a = new AirQualityCal();
+            a.CalculateAirQuality();
         }
     }
 }

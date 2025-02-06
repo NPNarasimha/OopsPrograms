@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OopsPrograms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7133f6788f47f1d8f9515e1269a80dc14303b85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c01d5a5ff922d98b3d629656931b0184304414cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OopsPrograms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OopsPrograms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
